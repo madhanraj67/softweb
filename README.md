@@ -821,10 +821,11 @@ contact.html
 
 
 ## OUTPUT:
-![Screenshot 2024-04-29 145532](https://github.com/madhanraj67/softweb/assets/150319515/b4199559-c81a-4e25-aadb-3d135c7495db)
-![Screenshot 2024-04-29 145557](https://github.com/madhanraj67/softweb/assets/150319515/b2ef3d62-4c57-4669-bc67-dd16d30d9955)
-![Screenshot 2024-04-29 145606](https://github.com/madhanraj67/softweb/assets/150319515/56ef271b-e662-4545-9982-6175a9746215)
-![Screenshot 2024-04-29 145747](https://github.com/madhanraj67/softweb/assets/150319515/7abf882a-c270-4cb6-9869-420381ead25f)
+![Screenshot 2024-04-29 150147](https://github.com/madhanraj67/softweb/assets/150319515/a372d1ec-b649-440d-a462-457bd6ea1579)
+![Screenshot 2024-04-29 150156](https://github.com/madhanraj67/softweb/assets/150319515/142e0f1b-7072-4831-a456-ce9f0a58c9b4)
+![Screenshot 2024-04-29 150205](https://github.com/madhanraj67/softweb/assets/150319515/8ed77a50-3d28-405e-9960-fa93e103d951)
+![Screenshot 2024-04-29 150213](https://github.com/madhanraj67/softweb/assets/150319515/79b74b81-70b5-4bf6-a0c0-3bdf42ed3961)
+
 
 
 
