@@ -219,6 +219,8 @@ home.html
 </body>
 </html>
 
+
+
 products.html
 <html>
     <head>
@@ -411,6 +413,8 @@ products.html
 </body>
 </html>
 
+
+
 people.html
 
 <html>
@@ -584,6 +588,8 @@ people.html
     </footer>
 </body>
 </html>
+
+
 
 contact.html
 
